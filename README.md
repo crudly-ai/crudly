@@ -5,6 +5,7 @@ Instead of manually creating repetitive CRUD modules, Crudly lets you describe w
 
 ✨ Features
 🤖 AI-Powered System Generation
+
 🧩 Generate multiple CRUD modules from a single prompt
 📦 Download full, ready-to-run project source code
 🔧 Clean, scalable, and extendable architecture
